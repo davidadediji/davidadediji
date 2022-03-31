@@ -1,5 +1,5 @@
 ### Hey 👋
-David here...https://github.com/davidadediji
+David here...
 
 <!--
 **davidadediji/davidadediji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

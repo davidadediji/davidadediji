@@ -1,4 +1,4 @@
-Hey 👋, David here
+**Hey 👋, David here**
 
 A passionate software engineer from Lagos, Nigeria
 

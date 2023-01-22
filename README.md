@@ -1,90 +1,24 @@
-<h3 align="left">Hey 👋, David here</h3>
-<h4 align="left">A passionate software engineer from Lagos, Nigeria</h4>
+Hey 👋, David here
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=davidadediji&label=Profile%20views&color=0e75b6&style=flat" alt="davidadediji" />
-</p>
+A passionate software engineer from Lagos, Nigeria
 
-<h4 align="left">Connect with me:</h4>
-    <p align="left">
-        <a href="https://linkedin.com/in/davidadediji1" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="davidadediji1" height="30" width="40" /></a>
-    </p>
-    <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=davidadediji&show_icons=true&locale=en"
-            alt="davidadediji" />
-    </p>
+Feel free to reach out to me if any questions or you need me on your team project
 
-<h4 align="left"> Languages and Tools:</h4>
-        <p>Frontend</p>
-        <div>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                    alt="react" width="40" height="40" /> </a>
-        </div>
+### Skills
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)\
+![NODEJS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white)\
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)\
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p>Backend</p>
-        <div>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                    alt="java" width="40" height="40" /> </a>
-            <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-                    height="40" /> </a>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                    alt="typescript" width="40" height="40" /> </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                    alt="javascript" width="40" height="40" /> </a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                    alt="express" width="40" height="40" />
-            </a>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                    alt="nodejs" width="40" height="40" /> </a>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python" width="40" height="40" /> </a>
-        </div>
-<p>DataBase</p>
-        <div>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                    alt="mysql" width="40" height="40" /> </a>
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                    alt="postgresql" width="40" height="40" /> </a>
-        </div>
+### Connect with me:
 
-<p>CI/CD</p>
-        <div>
-            <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
-                    height="40" />
-            </a>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                    alt="docker" width="40" height="40" />
-            </a>
-        </div>
+<a href='mailto:davidadediji@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+<a href='https://www.linkedin.com/in/davidadediji1'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
+<a href='https://twitter.com/davidadediji1'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
+### &#x1f4c8; My GitHub Stats
 
-
-<p>Tools</p>
-        <div>
-            <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
-                    src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" />
-            </a>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-            </a>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                    alt="linux" width="40" height="40" /> </a>
-            <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                    height="40" /> </a>
-        </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidadediji&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)

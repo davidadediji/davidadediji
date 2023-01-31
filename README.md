@@ -2,7 +2,7 @@
 
 A passionate software engineer from Lagos, Nigeria
 
-Feel free to reach out to me if any questions or you need me on your team project
+Feel free to reach out to me if you have any questions or you need me on your team project
 
 #### Skills
 
